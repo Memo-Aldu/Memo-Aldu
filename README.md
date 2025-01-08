@@ -45,7 +45,7 @@ Feel free to [**connect with me**](https://www.memoaldu.com/contact)
 
 📧 **Email:** aldu.memo@gmail.com  
 🌐 **Website:** [memoaldu.com](https://memoaldu.com)  
-🔗 **LinkedIn:** [Memo Al-Dujaili](https://www.linkedin.com/in/memo-aldu-20a2021bb/)  
+🔗 **LinkedIn:** [Memo Al-Dujaili](https://www.linkedin.com/in/memo-aldu/)  
 💼 **GitHub:** [github.com/Memo-Aldu](https://github.com/Memo-Aldu)  
 
 ---
