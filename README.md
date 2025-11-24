@@ -1,11 +1,11 @@
 # 👋 Hey there! I'm **Memo Al-Dujaili**  
-### 🚀 Software Engineer | Backend Development | Cloud Enthusiast  
+### Software Engineer | Backend Development | Cloud Enthusiast  
 
 Welcome to my GitHub! I'm a passionate software engineer who loves building **scalable backends**, working with **cloud infrastructure**, and exploring the world of **AI**. I enjoy solving complex problems through clean, maintainable, and efficient code. Let's create something amazing together!  
 
 ---
 
-## 🌐 **About Me**  
+## **About Me**  
 
 💻 I recently graduated with a **Bachelor’s in Software Engineering (CO-OP)** from the **University of Ottawa**.  
 🔧 I’ve worked with **backend services**, **microservices**, and **cloud platforms** like **AWS** and **Azure**.  
@@ -15,7 +15,7 @@ Feel free to [**connect with me**](https://www.memoaldu.com/contact)
 
 ---
 
-## 🛠️ **Tech Stack**  
+## **Tech Stack**  
 
 ### **Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -32,16 +32,16 @@ Feel free to [**connect with me**](https://www.memoaldu.com/contact)
 
 ---
 
-## 🌟 **Projects I'm Proud Of**  
+## **Projects I'm Proud Of**  
 
-### 📦 **Capstone CRM Project**  
+### **Capstone CRM Project**  
 - **Tech Stack:** React, TypeScript, Spring Boot, MongoDB, PostgreSQL, Azure  
 - Designed and developed a scalable CRM system with **secure authentication** using **Azure AD** and **Twilio** integration for SMS/MMS messaging.  
 <!-- - **Check it out:** [Capstone CRM Repository](#)  -->
 
 ---
 
-## 🌐 **Let's Connect!**  
+## **Let's Connect!**  
 
 📧 **Email:** aldu.memo@gmail.com  
 🌐 **Website:** [memoaldu.com](https://memoaldu.com)  
