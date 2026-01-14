@@ -1,7 +1,7 @@
-# 👋 Hey there! I'm **Memo Al-Dujaili**  
-### Software Engineer | Backend Development | Cloud Enthusiast  
+# Hey there! I'm **Memo**  
+### Software Engineer | Backend Developer | Cloud Enthusiast  
 
-Welcome to my GitHub! I'm a passionate software engineer who loves building **scalable backends**, working with **cloud infrastructure**, and exploring the world of **AI**. I enjoy solving complex problems through clean, maintainable, and efficient code. Let's create something amazing together!  
+Welcome to my GitHub! I'm a passionate software engineer who loves building **scalable backends**, working with **cloud infrastructure**, and exploring the world of **AI**. I enjoy solving complex problems through clean, maintainable, and efficient code.  
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate software engineer who loves building **sc
 
 💻 I recently graduated with a **Bachelor’s in Software Engineering (CO-OP)** from the **University of Ottawa**.  
 🔧 I’ve worked with **backend services**, **microservices**, and **cloud platforms** like **AWS** and **Azure**.  
-📈 I’m always looking to learn new technologies and collaborate on open-source projects.  
+📈 I’m always looking to learn new technologies and collaborate on projects.  
 
 Feel free to [**connect with me**](https://www.memoaldu.com/contact)  
 
